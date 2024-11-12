@@ -14,7 +14,7 @@
 
 <h2>HW3-2, 3-3</h2>
 
-<p>prompt</p>
+<p>HW3-3, prompt</p>
 <p>Step 1:生成 600 個隨機點，這些點的中心為 C1=(0,0)，方差為 10，對於距離 C1 小於 6 的點，Y=0，對於距離 C1 大於等於 6 的點，Y=1。繪製散佈圖。</p>
 <p>stpe 2:生成另一組隨機點，這些點的中心為 (10,10)，方差為 10，對於距離 C2 小於 3 的點，Y=0，對於距離 C2 大於等於 3 的點，Y=1。繪製散佈圖。</p>
 <p>step 3:定義 x3=f(x1, x2)，其中 f 是高斯函數。繪製 3D 散佈圖 (x1, x2, x3)，並根據 Y 值為點上色。</p>
@@ -22,7 +22,7 @@
 
 ![3D-plot_SVM](https://github.com/user-attachments/assets/ccb6a3d7-0307-43ae-b5e1-92fa4eca8f79)
 
-<p>prompt</p>
+<p>HW3-2, prompt</p>
 <p>將產生上述結果的code 部屬到streamlit上</p>
 
 
