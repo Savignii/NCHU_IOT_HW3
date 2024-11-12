@@ -1,4 +1,4 @@
-<h1> NCHU IOT HW3 </h1>
+![image](https://github.com/user-attachments/assets/8218a98b-0dcf-4b92-ac56-3501a928e32f)<h1> NCHU IOT HW3 </h1>
 
 <h2> HW3-1. 1D compare to  logistic regression with SVM on simple case </h2>
-![LR](https://github.com/Savignii/AIOT/blob/main/2D_LR.png)
+![LR!](https://private-user-images.githubusercontent.com/156513772/385296524-e354bb7c-90a2-4d36-9a38-e86fae7f8904.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE0MTc0NTgsIm5iZiI6MTczMTQxNzE1OCwicGF0aCI6Ii8xNTY1MTM3NzIvMzg1Mjk2NTI0LWUzNTRiYjdjLTkwYTItNGQzNi05YTM4LWU4NmZhZTdmODkwNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExMlQxMzEyMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ODZmNTA2NDAwNDRkY2FiOWZmOGMwZmNkYzI1Yjc1OTlmM2FlMmIyN2UyYmI3Mjg4OTI3YmIzZTdjYTIyYzU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xrg6f8wgslFeDOz2IU1UF70JgMGQVjs3O_dKLxO2j6Q)
